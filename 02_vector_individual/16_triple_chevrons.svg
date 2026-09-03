@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="56.6385mm" height="24.7970mm" viewBox="0 0 201.0000 88.0000">
+  <title>16_triple_chevrons</title>
+  <desc>Direct contour trace from the supplied reference image; solid source colours; transparent background.</desc>
+  <g id="artwork" inkscape:groupmode="layer" inkscape:label="Traced artwork">
+    <path d="M 65.00,5.00 L 81.00,22.00 L 83.00,26.00 L 93.00,35.00 L 99.00,43.00 L 99.00,45.00 L 95.00,50.00 L 89.00,55.00 L 88.00,58.00 L 75.00,71.00 L 74.00,74.00 L 67.00,81.00 L 68.00,84.00 L 97.00,84.00 L 108.00,73.00 L 110.00,69.00 L 131.00,46.00 L 132.00,43.00 L 96.00,3.00 Z" fill="#FED023" fill-rule="evenodd" clip-rule="evenodd"/>
+    <path d="M 3.00,5.00 L 40.00,44.00 L 9.00,78.00 L 7.00,84.00 L 33.00,84.00 L 39.00,79.00 L 58.00,56.00 L 67.00,47.00 L 69.00,43.00 L 33.00,4.00 Z M 132.00,4.00 L 168.00,44.00 L 138.00,77.00 L 135.00,84.00 L 160.00,84.00 L 163.00,83.00 L 197.00,44.00 L 197.00,42.00 L 183.00,28.00 L 162.00,4.00 L 160.00,3.00 Z" fill="#461D7D" fill-rule="evenodd" clip-rule="evenodd"/>
+  </g>
+</svg>
